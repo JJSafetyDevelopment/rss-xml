@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.osha.gov/">
+  <channel>
+    <title>OSHA Directives</title>
+    <link>https://www.osha.gov/</link>
+    <description>Current OSHA Directives</description>
+    <language>en</language>
+    
+    <item>
+  <title>Regional Local Emphasis Program – Noise Hazards</title>
+  <link>https://www.osha.gov/enforcement/directives/nyc-cpl-04-00-001</link>
+  <description>12/05/2024 - a href="http://www.osha.gov/taxonomy/term/14" hreflang="en"New York City - NYC-CPL-04-00-001 - Regional Local Emphasis Program – Noise Hazards</description>
+  <pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Regional Local Emphasis Program – Noise Hazards</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/nyc-cpl-04-00-001</guid>
+    </item>
+<item>
+  <title>OSHA Authority Over Vessels and Facilities on or Adjacent to U.S. Navigable Waters and on the Outer Continental Shelf (OCS)</title>
+  <link>https://www.osha.gov/enforcement/directives/cpl-02-01-066</link>
+  <description>11/13/2024 - National - CPL 02-01-066 - OSHA Authority Over Vessels and Facilities on or Adjacent to U.S. Navigable Waters and on the Outer Continental Shelf (OCS)</description>
+  <pubDate>Wed, 13 Nov 2024 12:00:00 +0000</pubDate>
+    <dc:creator>OSHA Authority Over Vessels and Facilities on or Adjacent to U.S. Navigable Waters and on the Outer Continental Shelf (OCS)</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/cpl-02-01-066</guid>
+    </item>
+<item>
+  <title>Regional Emphasis Program for Noise Hazards</title>
+  <link>https://www.osha.gov/enforcement/directives/atl-cpl-04-00-002</link>
+  <description>11/05/2024 - a href="http://www.osha.gov/taxonomy/term/16" hreflang="en"Atlanta - ATL-CPL-04-00-002 - Regional Emphasis Program for Noise Hazards</description>
+  <pubDate>Tue, 05 Nov 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Regional Emphasis Program for Noise Hazards</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/atl-cpl-04-00-002</guid>
+    </item>
+<item>
+  <title>Regional Emphasis Program for Powered Industrial Trucks</title>
+  <link>https://www.osha.gov/enforcement/directives/atl-cpl-04-00-004</link>
+  <description>11/05/2024 - a href="http://www.osha.gov/taxonomy/term/16" hreflang="en"Atlanta - ATL-CPL-04-00-004 - Regional Emphasis Program for Powered Industrial Trucks</description>
+  <pubDate>Tue, 05 Nov 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Regional Emphasis Program for Powered Industrial Trucks</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/atl-cpl-04-00-004</guid>
+    </item>
+<item>
+  <title>Local Emphasis Program for Federal Agencies</title>
+  <link>https://www.osha.gov/enforcement/directives/atl-cpl-04-00-005</link>
+  <description>11/05/2024 - a href="http://www.osha.gov/taxonomy/term/16" hreflang="en"Atlanta - ATL-CPL-04-00-005 - Local Emphasis Program for Federal Agencies</description>
+  <pubDate>Tue, 05 Nov 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Local Emphasis Program for Federal Agencies</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/enforcement/directives/atl-cpl-04-00-005</guid>
+    </item>
+
+  </channel>
+</rss>
