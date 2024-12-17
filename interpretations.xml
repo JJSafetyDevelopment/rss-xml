@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.osha.gov/">
+  <channel>
+    <title>OSHA Interpretations</title>
+    <link>https://www.osha.gov/</link>
+    <description>Current OSHA Letters of Interpretation</description>
+    <language>en</language>
+    
+    <item>
+  <title>European Commercial Metric (C-type) tires for commercial cargo vans</title>
+  <link>https://www.osha.gov/laws-regs/standardinterpretations/2024-08-01</link>
+  <description>European Commercial Metric (C-type) tires for commercial cargo vans - [1910.177; 1910.177(a)(1)]</description>
+  <pubDate>Thu, 01 Aug 2024 12:00:00 +0000</pubDate>
+    <dc:creator>European Commercial Metric (C-type) tires for commercial cargo vans</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2024-08-01</guid>
+    </item>
+<item>
+  <title>Applicability of OSHA's definition of oxygen-deficient atmosphere to Air Force facilities</title>
+  <link>https://www.osha.gov/laws-regs/standardinterpretations/2024-07-16</link>
+  <description>Applicability of OSHA's definition of oxygen-deficient atmosphere to Air Force facilities - [1910.134; 1910.134(d)(2)(iii); 1960; 1960.1; 1960.1(e)]</description>
+  <pubDate>Tue, 16 Jul 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Applicability of OSHA&amp;#039;s definition of oxygen-deficient atmosphere to Air Force facilities</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2024-07-16</guid>
+    </item>
+<item>
+  <title>Cranes and the use of protective helmets</title>
+  <link>https://www.osha.gov/laws-regs/standardinterpretations/2024-06-06-2</link>
+  <description>Cranes and the use of protective helmets - [1910.135; 1910.135(a)(1); 1910.135(b)(1); 1910.179(n)(3)(vi); 1910.132(d)(1)]</description>
+  <pubDate>Thu, 06 Jun 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Cranes and the use of protective helmets</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2024-06-06-2</guid>
+    </item>
+<item>
+  <title>Fall Protection on low slope roofs</title>
+  <link>https://www.osha.gov/laws-regs/standardinterpretations/2024-06-06-1</link>
+  <description>Fall Protection on low slope roofs - [1910.28; 1910.28(b)(13)(i); 1910.28(b)(13)(iii)]</description>
+  <pubDate>Thu, 06 Jun 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Fall Protection on low slope roofs</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2024-06-06-1</guid>
+    </item>
+<item>
+  <title>Requirements of Mobile Ladder Stand Platforms Used to Access CNC Machines</title>
+  <link>https://www.osha.gov/laws-regs/standardinterpretations/2024-06-06-0</link>
+  <description>Requirements of Mobile Ladder Stand Platforms Used to Access CNC Machines - [1910.23; 1910.23(b); 1910.23(e); 1910.23(e)(1)(i); 1910.23(e)(2)(i); 1910.23(e)(3)(i); 1910.23(e)(3)(ii); 1910.23(e)(3)(iii); 1910.29(b)(3)]</description>
+  <pubDate>Thu, 06 Jun 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Requirements of Mobile Ladder Stand Platforms Used to Access CNC Machines</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/standardinterpretations/2024-06-06-0</guid>
+    </item>
+
+  </channel>
+</rss>
