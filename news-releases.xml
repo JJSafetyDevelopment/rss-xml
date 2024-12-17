@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.osha.gov/">
+  <channel>
+    <title>OSHA News Release</title>
+    <link>https://www.osha.gov/</link>
+    <description>Current OSHA News Releases</description>
+    <language>en</language>
+    
+    <item>
+  <title>US Department of Labor fines Des Plaines solar contractor $288K in penalties for exposing workers to deadly fall hazards</title>
+  <link>https://www.osha.gov/news/newsreleases/chicago/20241216</link>
+  <description>December 16, 2024</description>
+  <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>US Department of Labor fines Des Plaines solar contractor $288K in penalties for exposing workers to deadly fall hazards</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/news/newsreleases/chicago/20241216</guid>
+    </item>
+<item>
+  <title>US Department of Labor finds contractor’s safety failures led to diver’s preventable fatality at underwater worksite at Manns Harbor bridge</title>
+  <link>https://www.osha.gov/news/newsreleases/atlanta/20241213</link>
+  <description>December 13, 2024</description>
+  <pubDate>Fri, 13 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>US Department of Labor finds contractor’s safety failures led to diver’s preventable fatality at underwater worksite at Manns Harbor bridge</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/news/newsreleases/atlanta/20241213</guid>
+    </item>
+<item>
+  <title>US Department of Labor announces release of detailed 2023 case data on more than 890K injuries, illnesses at over 91K workplaces</title>
+  <link>https://www.osha.gov/news/newsreleases/osha-national-news-release/20241212</link>
+  <description>December 12, 2024</description>
+  <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>US Department of Labor announces release of detailed 2023 case data on more than 890K injuries, illnesses at over 91K workplaces</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/news/newsreleases/osha-national-news-release/20241212</guid>
+    </item>
+<item>
+  <title>Department of Labor finalizes rule on proper fit requirements for personal protective equipment in construction</title>
+  <link>https://www.osha.gov/news/newsreleases/osha-national-news-release/20241211</link>
+  <description>December 11, 2024</description>
+  <pubDate>Wed, 11 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Department of Labor finalizes rule on proper fit requirements for personal protective equipment in construction</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/news/newsreleases/osha-national-news-release/20241211</guid>
+    </item>
+<item>
+  <title>US Department of Labor finds safety failures by Marietta tree trimming contractor led to arborist’s electrocution </title>
+  <link>https://www.osha.gov/news/newsreleases/atlanta/20241211-0</link>
+  <description>December 11, 2024</description>
+  <pubDate>Wed, 11 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>US Department of Labor finds safety failures by Marietta tree trimming contractor led to arborist’s electrocution </dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/news/newsreleases/atlanta/20241211-0</guid>
+    </item>
+
+  </channel>
+</rss>
