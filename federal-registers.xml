@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.osha.gov/">
+  <channel>
+    <title>OSHA Federal Register</title>
+    <link>https://www.osha.gov/</link>
+    <description>Current OSHA Federal Register</description>
+    <language>en</language>
+    
+    <item>
+  <title>Agency Information Collection Activities; Submission for OMB  Review; Comment Request; Reports of Injuries to Employees Operating  Mechanical Power Presses</title>
+  <link>https://www.osha.gov/laws-regs/federalregister/2024-12-13</link>
+  <description>[Federal Register Volume 89, (Friday, December 13, 2024)] [Notice] [Pages 101052] Agency Information Collection Activities; Submission for OMB  Review; Comment Request; Reports of Injuries to Employees Operating  Mechanical Power Presses</description>
+  <pubDate>Fri, 13 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Agency Information Collection Activities; Submission for OMB  Review; Comment Request; Reports of Injuries to Employees Operating  Mechanical Power Presses</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/federalregister/2024-12-13</guid>
+    </item>
+<item>
+  <title>Personal Protective Equipment in Construction</title>
+  <link>https://www.osha.gov/laws-regs/federalregister/2024-12-12</link>
+  <description>[Federal Register Volume 89, (Thursday, December 12, 2024)] [Final Rule] [Pages 100321-100346] Personal Protective Equipment in Construction</description>
+  <pubDate>Thu, 12 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Personal Protective Equipment in Construction</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/federalregister/2024-12-12</guid>
+    </item>
+<item>
+  <title>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Respiratory Protection Standard</title>
+  <link>https://www.osha.gov/laws-regs/federalregister/2024-12-03</link>
+  <description>[Federal Register Volume 89, (Tuesday, December 3, 2024)] [Notice] [Pages 95815] Agency Information Collection Activities; Submission for OMB Review; Comment Request; Respiratory Protection Standard</description>
+  <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Agency Information Collection Activities; Submission for OMB Review; Comment Request; Respiratory Protection Standard</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/federalregister/2024-12-03</guid>
+    </item>
+<item>
+  <title>Occupational Safety and Health State Plans; Extension of the Office of Management and Budget's (OMB) Approval of Information Collection (Paperwork) Requirements</title>
+  <link>https://www.osha.gov/laws-regs/federalregister/2024-12-03-0</link>
+  <description>[Federal Register Volume 89, (Tuesday, December 3, 2024)] [Notice] [Pages 95815-95816] Occupational Safety and Health State Plans; Extension of the Office of Management and Budget's (OMB) Approval of Information Collection (Paperwork) Requirements</description>
+  <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Occupational Safety and Health State Plans; Extension of the Office of Management and Budget&amp;#039;s (OMB) Approval of Information Collection (Paperwork) Requirements</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/federalregister/2024-12-03-0</guid>
+    </item>
+<item>
+  <title>Construction Standards on Posting Emergency Telephone Numbers and  Floor Load Limits; Extension of the Office of Management and Budget's  (OMB) Approval of Information Collection (Paperwork) Requirements</title>
+  <link>https://www.osha.gov/laws-regs/federalregister/2024-12-02</link>
+  <description>[Federal Register Volume 89, (Monday, December 2, 2024)] [Notice] [Pages 95245-95246] Construction Standards on Posting Emergency Telephone Numbers and  Floor Load Limits; Extension of the Office of Management and Budget's  (OMB) Approval of Information Collection (Paperwork) Requirements</description>
+  <pubDate>Mon, 02 Dec 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Construction Standards on Posting Emergency Telephone Numbers and  Floor Load Limits; Extension of the Office of Management and Budget&amp;#039;s  (OMB) Approval of Information Collection (Paperwork) Requirements</dc:creator>
+    <guid isPermaLink="true">https://www.osha.gov/laws-regs/federalregister/2024-12-02</guid>
+    </item>
+
+  </channel>
+</rss>
